@@ -1,17 +1,19 @@
-# Overview
+# WELCOME
 
-This portfolio contains innovative software solutions to real-world problems designed and developed by Erick Vega.
-Each project has been clearly documented and contains ideas to future improvements. The purpose of this repository is to provide a deep understanding of the programmer's problem-solving approaches and his ability to contribute solid solutions through any challenge. 
+## Introduction
 
-[Software Demo Video](https://youtu.be/xbGA1_5yMmM)
+Welcome to the Python Data Structures Tutorial. The purpose of this guide is to give you a basic but strong understanding of some of the most used data structures in the programming world. Python will be used to develop each topic, and a basic understanding of the language will be enough to succeed throughout this guide which will present the following modules:
 
-# Development Environment
+* [Stacks](1_stacks.md)
+* [Linked Lists](2_linked_lists.md)
+* [Trees](3_trees.md)
 
-Each section of this software has been written in Visual Studio Code taking advantage of it libraries and extensions.
+Each module will explain the main features of the structure through concepts, images and examples. At the end of each module, you will find a problem to solve on your own. A solution will be provided, but avoid the temptation to look it before having tried with all your resources and capacity.
 
-Python has been mainly used to develop this software.
+## Contact
 
-# Useful Websites
+For questions or comments, please send them to:
 
-* [Real Python](https://realpython.com/)
-* [GitHub Student Developer](https://education.github.com/pack)
+Erick Vega | BYU-Idaho
+
+eric.kjvp1@hotmail.com
