@@ -1,1 +1,1 @@
-![Artillery Demo](artillery_demo.gif)
+![Artillery Demo](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
