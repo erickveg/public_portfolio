@@ -1,4 +1,11 @@
-# WELCOME
+# Basic Data Structures Explained with Python
+
+## Author
+
+[Erick J. Vega](https://www.linkedin.com/in/erick-vega-646aa8188/)
+
+For questions or comments, please send them to:
+[eric.kjvp1@hotmail.com](mailto:eric.kjvp1@hotmail.com)
 
 ## Introduction
 
@@ -10,10 +17,4 @@ Welcome to the Python Data Structures Tutorial. The purpose of this guide is to 
 
 Each module will explain the main features of the structure through concepts, images and examples. At the end of each module, you will find a problem to solve on your own. A solution will be provided, but avoid the temptation to look it before having tried with all your resources and capacity.
 
-## Contact
 
-For questions or comments, please send them to:
-
-Erick Vega | BYU-Idaho
-
-eric.kjvp1@hotmail.com
