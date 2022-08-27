@@ -1,0 +1,4 @@
+C:\Users\erick\Downloads\230.03.Lab.GLDemo (3)\x64\Debug\Lab03.exe
+C:\Users\erick\Documents\Erick Alienware\BYUI\2022 SPRING\CSE 230\230.03.Lab.GLDemo (3)\x64\Debug\Lab03.exe
+D:\School\2022 Spring\CSE 230 Encapsulation Design\Lab05CodeComplete\230.03.Lab.GLDemo\230.03.Lab.GLDemo (3)\x64\Debug\Lab03.exe
+D:\School\2022 Spring\CSE 230 Encapsulation Design\Lab06FinalCode\x64\Debug\Lab06.exe
