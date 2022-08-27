@@ -9,7 +9,7 @@ For questions or comments, please send them to:
 
 ## Introduction
 
-Welcome to the Python Data Structures Tutorial. The purpose of this guide is to give you a basic but strong understanding of some of the most used data structures in the programming world. Python will be used to develop each topic, and a basic understanding of the language will be enough to succeed throughout this guide which will present the following modules:
+Welcome my Python Data Structures Tutorial. The purpose of this guide is to give you a basic but strong understanding of some of the most used data structures in the programming world. Python will be used to explain each topic, and a basic understanding of the language will be enough to succeed throughout this guide which will present the following modules:
 
 * [Stacks](1_stacks.md)
 * [Linked Lists](2_linked_lists.md)
