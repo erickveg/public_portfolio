@@ -1,1 +1,1 @@
-[Artillery Demo](artillery_demo.gif)
+![Artillery Demo](artillery_demo.gif)
