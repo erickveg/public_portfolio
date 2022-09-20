@@ -1,5 +1,9 @@
-# Introduction to Data Science by Erick Vega
+# Introduction to Data Science
 
+## Author
+Erick J. Vega
+
+For questions or comments, please send them to: eric.kjvp1@hotmail.com
 Projects solved and explained by Erick Vega as part of the course CSE250 (Data Science Programming) at Brigham Young University-Idaho
 
 ## [Project 1: What's in a name?](Project1)
