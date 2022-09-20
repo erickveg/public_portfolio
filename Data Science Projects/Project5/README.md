@@ -136,14 +136,13 @@ We will one-hot encode the following columns:
 The following table represents the first 5 columns and the first 5 rows of the original dataser after being one-hot encoded.
 
 |is_fan_sw_Yes |   crank_han_solo_somewhat_favorably |   crank_han_solo_somewhat_unfavorably |   crank_han_solo_unfamiliar |   crank_han_solo_very_favorably |
-|-----:|----------------:|------------------------------------:|--------------------------------------:|----------------------------------:|--------------------------------:|
- |               1 |                                   0 |                                     0 |                                 0 |                               1 |
-|               1 |                                   0 |                                     0 |                                 0 |                               1 |
-|               1 |                                   0 |                                     0 |                                 0 |                               1 |
-|               1 |                                   0 |                                     0 |                                 0 |                               1 |
-|               0 |                                   0 |                                     0 |                                 0 |                               1 |
-
-##### f. Create your target (also known as "y" or "label") column based on the new income range column.
+|-------------:|------------------------------------:|--------------------------------------:|----------------------------:|--------------------------------:|
+|            1 |                                   0 |                                     0 |                           0 |                               1 |
+|            1 |                                   0 |                                     0 |                           0 |                               1 |
+|            1 |                                   0 |                                     0 |                           0 |                               1 |
+|            1 |                                   0 |                                     0 |                           0 |                               1 |
+|            0 |                                   0 |                                     0 |                           0 |                               1 |
+#### f. Create your target (also known as "y" or "label") column based on the new income range column.
 
 Since our Machine Learning model is intended to predict whether a person makes more than \$50k, our target column will be the one that contains the income of the respondents, specifically, we will focus on those rows where the income is greater than $50k.
 
