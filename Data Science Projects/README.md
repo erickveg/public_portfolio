@@ -9,4 +9,4 @@ This repository is for personal use only, to show experience related with differ
 - Project 2: Are we missing JSON on our flights?
 - Project 3: Finding relationships in baseball
 - Project 4: Classifying Homes
-- Project 5: The war with Star Wars
+- Project 5: The war with Star Wars (Predicting someone's income based on his/her Star Wars preferences using Machine Learning)
