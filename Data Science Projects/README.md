@@ -5,7 +5,7 @@ Erick J. Vega
 
 For questions or comments, please send them to: eric.kjvp1@hotmail.com
 
-Projects solved and explained by Erick Vega as part of the course CSE250 (Data Science Programming) at Brigham Young University-Idaho
+Projects solved and explained by Erick Vega as part of CSE250 (Data Science Programming) course at Brigham Young University-Idaho
 
 ## [Project 1: What's in a name?](Project1)
 This project will analyze the usage of specific names throughout history, from relatives' names to actors' names. The data has been taken from a cleaned data set of birth names by year with counts for US states. The analysis will include customized charts that come in handy in order to visualize the total of children named with a particular name over a specific range of time. The main purpose of this project is to understand how and what external influences affected the way parents named their children.
