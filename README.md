@@ -1,7 +1,8 @@
-# Welcome!
+# Welcome to my Portfolio!
 ![erick vega is software developer and data scientist](intro_erick.gif)
 
 
+## About Me
 __Computer Science__ + __Software Design__ student at Brigham Young University Idaho
 
 Passionate about technology! I believe that technology aids humans to develop their best attributes and have a healthier life, that's why I consider quality and efficiency key for the development of any piece of software.
