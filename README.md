@@ -11,7 +11,7 @@ Expected graduation: April 2024
 
 ## Projects on this repository
 
-### [Data Science Projects](Data Science Projects)
+### [Data Science Projects](Data%20Science%20Projects)
 
 ### [Data Structures Tutorial](Data Structures by Erick)
 
