@@ -34,7 +34,7 @@ __Gained Skills:__
 - Optimize algorithms to achieve the best performance
 - Write solid and clean documentation
 
-### [[App] Golf Enhancer]([App]%20Golf%20Enhancer%20with%20CV%20and%20ML%20(Python))
+### [[App] Golf Swing Analyzer]([App]%20Golf%20Enhancer%20with%20CV%20and%20ML%20(Python))
 
 ### [[Game] Apollo 11 Simulator]([Game]%20Apollo%2011%20Simulator%20(C++))
 
