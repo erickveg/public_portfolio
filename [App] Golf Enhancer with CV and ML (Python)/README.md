@@ -3,11 +3,11 @@ Davis Kerr, Adrianna Lund, Jared Perlic, Erick Vega
 
 # Overview
 
-This program takes in a video and collects data points from a golfer's body using OpenCV and MediaPipe and analyses the overall movement of a golfer using a Machine Learning model trained by us to score and provide feedback on the golfer's setup, forward and backswing.
+This program takes in a video and collects data points from a golfer's body using OpenCV and MediaPipe and analyses the overall movement of a golfer using a Machine Learning model trained by us to score and provide feedback on a golfer's setup, forward and backswing.
 
 # Video Demonstration
 
-[![Golf Swing Analyzer Banner Click to watch ](golf%20swing%20analyzer.png)](https://youtu.be/Ze0Ef7hCPy0 "Golg Swing Analyzer Demonstration - Click to Watch!")
+[![Golf Swing Analyzer Banner Click to watch ](golf_swing_analyzer_banner.png)](https://youtu.be/Ze0Ef7hCPy0 "Golg Swing Analyzer Demonstration - Click to Watch!")
 
 
 # Development Environment
