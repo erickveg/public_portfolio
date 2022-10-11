@@ -1,8 +1,12 @@
+# Authors
+Davis Kerr, Adrianna Lund, Jared Perlic, Erick Vega
+
 # Overview
 
-This program takes in a video and collects data points for several points on the golfer per frame.
-It then divides up the video into 3 sections of the golf swing.
+This program takes in a video and collects data points from a golfer's body using OpenCV and MediaPipe and analyses the overall movement of a golfer using a Machine Learning model trained by us to score and provide feedback on the golfer's setup, forward and backswing.
 
+# Video Demonstration
+![https://youtu.be/Ze0Ef7hCPy0](golf swing analyzer.png)
 
 # Development Environment
 
