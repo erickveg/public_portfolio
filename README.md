@@ -5,7 +5,7 @@
 ## About Me
 __Computer Science__ + __Software Design__ student at Brigham Young University Idaho
 
-Passionate about technology! I believe that technology aids humans to develop their best attributes and have a healthier life, that's why I consider quality and efficiency key for the development of any piece of software.
+Passionate about technology! I believe that technology aids humans to develop their best attributes and have a healthier life, that's why I write code.                                                                            
 
 Writing code is awesome, but the best part is when it actually runs!
 
