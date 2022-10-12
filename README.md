@@ -38,7 +38,7 @@ __Gained Skills:__
 
 ### [[App] Golf Swing Analyzer]([App]%20Golf%20Enhancer%20with%20CV%20and%20ML%20(Python))
 
-This App was developed with the goal of making easier for golfers to improve their skills without a human couch. OpenCV and other libraries were vital to analyze several videos and train our ML model in order to evaluate the input video. This project can definitely grow and even be marketable. A video demonstration is included.
+This App was developed with the goal of making it easier for golfers to improve their skills without a human couch. OpenCV and other libraries were vital to analyze several videos and train our ML model in order to evaluate the input video. This project can definitely grow and even be marketable. A video demonstration is included.
 
 __Gained Skills:__
 - Implement strong Encapsulation practices
