@@ -4,6 +4,7 @@
 
 ## About Me
 __Computer Science__ + __Software Design__ student at Brigham Young University Idaho
+
 2+ years of experience programming mainly in Python and C++
 
 Passionate about technology! I believe that technology aids humans to develop their best attributes and have a healthier life, that's why I write code.                                                                            
