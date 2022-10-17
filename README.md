@@ -53,7 +53,7 @@ This Game/Simulator replicates some of the software and hardware functionalities
 __Gained Skills:__
 - Design a program using flowcharts, pseudocode, Structure chats, data flow diagrams, and class relational diagrams
 - Achieve high levels of software design principles like Fidelity and Robustness
-- Learn to research on a field out of my field (Physics)
+- Learn to research on a field out of my understanding (Physics)
 - Perform black-box testing for every function and class
 - High exposure to data structures, memory management and class declarations in C++
 
