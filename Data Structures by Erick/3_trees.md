@@ -125,14 +125,14 @@ Once we have our Node class, we can initizalize a simple binary tree.
 ```
 >>> root = Node(15)
 # Tree Structure
-#       10
+#       15
 #      /  \
 #   None  None
 
 >>> root.left = Node(7)
 >>> root.right = Node(70)
 # Tree Structure
-#          10
+#          15
 #       /     \
 #      7       70
 #    /  \     /  \
