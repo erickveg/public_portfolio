@@ -62,7 +62,7 @@ Let's analyze the following block of code:
 ```python
 def  print_n_numbers(n):
     print(n)
-    print_n_numbers(n)
+    print_n_numbers(n-1)
 ```
 
 The purpose of the function above is to print all the number from n to 0. We used recursion in the third line to call again the function `print_n_numbers()` and passed 'n-1' as the argument to decrease n by 1 every time the function call. Nevertheless we are missing some things that are important when using recursion. If we run this program, the result would look like this:
