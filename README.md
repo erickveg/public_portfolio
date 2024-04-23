@@ -23,6 +23,11 @@ Writing code is awesome, but the best part is when it actually runs!
 
 ## Projects on this repository
 
+### [Web App] EnrollEase (Smart Class Registration)
+
+
+See more details [here](https://github.com/erickveg/EnrollEaseProject).
+
 ### [App] Forecasting Tool (The Predictor)
 
 This App was developed for the BYU-Idaho Support Center by Erick Vega. The main purpose of the app is to forecast the volume of contacts received in the next months and calculate the optimal number of agents needed to handle those contacts by semester and shifts. The Support Center found that some semesters there were too many agents or they were not distributed correctly, this was costing too much to the center. After 6 months of development, I am proud to present __The Predictor__, the first forecasting tool of the Support Center developed with Neural Networks. It can predict up to 2 years and it updates every week with new data. It has helped managers to distribute their workforce according to demand which in the best case can save up to $140K/year for the university.
