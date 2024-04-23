@@ -25,8 +25,11 @@ Writing code is awesome, but the best part is when it actually runs!
 
 ### [Web App] EnrollEase (Smart Class Registration)
 
+This is an application that facilitates the creation of optimal class schedules for college students. It allows the students to choose the desired classes in a semester and creates a set of suggested schedules using optimization algorithms considering the location of a class, the time between classes, and the rate of the professors based on ratemyprofessor.com. This application currently doesn't support integrated authentication with a college institution, but it can web-scrape known interfaces where the student can log in.
 
 See more details [here](https://github.com/erickveg/EnrollEaseProject).
+
+![](img/EnrolleEase_schreenshot.png)
 
 ### [App] Forecasting Tool (The Predictor)
 
