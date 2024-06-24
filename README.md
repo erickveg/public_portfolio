@@ -1,6 +1,9 @@
 # Welcome to my Portfolio!
 ![erick vega is software developer and data scientist](img/intro_erick.gif)
 
+## NEW PORTFOLIO WEBSITE!!
+
+[Visit NEW portfolio!](https://erickvega.netlify.app/)
 
 ## About Me
 
